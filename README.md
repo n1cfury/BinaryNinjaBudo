@@ -1,11 +1,14 @@
-# BNB-For-RE
+#Binary Ninja Budo Episode Resources
+-- Resources referenced in each episode will be updated in this repository --
 
+## 0x00 - [Introduction](https://youtu.be/6jza0POYG3U)
 
-
--- Code and referenced links from the YouTube series will be stored here --
-
-## 0x00 - Introduction of the series
-
-* Recommended books
+* Resources
   * [Hacking: Art of Exploitation, 2nd Edition](http://amzn.to/2zvbkik)
   * [Gray Hat Hacking The Ethical Hacker's Handbook, 4th Edition](http://amzn.to/2mVzrkj)
+
+## 0x01 - [The Interface](https://www.youtube.com/watch?v=8QcxiPnuj_M)
+
+* Resources
+  * [Binary Ninja Slack channel](https://binaryninja.slack.com)
+  * [Binary Ninja, Documentation](https://docs.binary.ninja)
