@@ -7,7 +7,7 @@
   * [Hacking: Art of Exploitation, 2nd Edition](http://amzn.to/2zvbkik)
   * [Gray Hat Hacking The Ethical Hacker's Handbook, 4th Edition](http://amzn.to/2mVzrkj)
 
-## 0x01 - [The Interface](https://www.youtube.com/watch?v=8QcxiPnuj_M)
+## 0x01 - [The Interface](https://youtu.be/qDTzjtdjOzs)
 
 * Resources
   * [Binary Ninja Slack channel](https://binaryninja.slack.com)
